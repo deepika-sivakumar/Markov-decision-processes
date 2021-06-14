@@ -1,4 +1,4 @@
-Markov Decision Processes (CS7641)
+Markov Decision Processes
 
 1. Download/clone the code from the repository - 
 	https://github.com/deepika-sivakumar/cs7641-mdp.git
